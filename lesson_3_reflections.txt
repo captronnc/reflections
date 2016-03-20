@@ -1,3 +1,12 @@
 Create new file from GitHub for Lesson 3 Reflections
 
 This is getting easier and making more sense. 
+
+When would you want to use a remote repository rather than
+keeping all your work local?
+
+When I am away from my normal work station and have important
+info or work to add. When requesting collaboration from
+others.
+
+***
